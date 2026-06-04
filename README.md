@@ -37,6 +37,8 @@ npm install
 npm start
 ```
 
+</details>
+
 ## 💬 **`COMUNIDAD Y CANALES OFICIALES`**
 
 ¿Tienes dudas o quieres estar al día con las novedades? ¡Únete a nuestros canales oficiales! 💫
