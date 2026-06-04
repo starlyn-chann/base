@@ -2,7 +2,7 @@
 <p align="center"><i>Bot simple</i></p>
 
 <p align="center">
-  <img src="./image/shiroko.jpg" width="100%"/>
+  <img src="./image/roxy.jpg" width="100%"/>
 </p>
 
 ### **`Información`**
