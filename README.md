@@ -1,6 +1,7 @@
 <h1 align="center">MOONLIGHT</h1>  
 > [!NOTE]
 > **Este proyecto está en constante evolución.**
+<p>
 
 <p align="center"><i>Bot simple</i></p>
 
