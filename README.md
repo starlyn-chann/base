@@ -1,8 +1,4 @@
 <h1 align="center">MOONLIGHT</h1>  
-> [!NOTE]
-> **Este proyecto está en constante evolución.**
-<p>
-
 <p align="center"><i>Bot simple</i></p>
 
 <p align="center">
@@ -11,7 +7,7 @@
 
 ### **`Información`**
 
-**Roxy es un bot de WhatsApp simple perfecto para empezar a crear un proyecto desde 0, el bot depende de Baileys para poder funcionar correctamente**.
+**Santi ya deja de perder los bots**.
 
 ### 📥 INSTALAR BOT
 
@@ -42,17 +38,3 @@ npm start
 ```
 
 </details>
-
-## 💬 **`COMUNIDAD Y CANALES OFICIALES`**
-
-¿Tienes dudas o quieres estar al día con las novedades? ¡Únete a nuestros canales oficiales! 💫
-
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029VbCYdHfK0IBjVgKNvM1e">
-    <img src="https://img.shields.io/badge/Canal%20Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal Oficial">
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=5219992042946&text=&app_absent=0">
-    <img src="https://img.shields.io/badge/Contacto%20de%20Soporte-FF5722?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Support Contact">
-  </a>
-</p>
----
