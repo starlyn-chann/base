@@ -1,5 +1,5 @@
 <h1 align="center">MOONLIGHT</h1>  
-<p align="center"><i>Bot simple</i></p>
+<p align="center"><i>Santi Dame server</i></p>
 
 <p align="center">
   <img src="./image/roxy.jpg" width="100%"/>
