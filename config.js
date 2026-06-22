@@ -1,8 +1,8 @@
-export default {
-    nombre: 'Roxy',
-    nombre2: 'Migurdia',
+ export default {
+    nombre: 'Micet',
+    nombre2: 'MiCet',
     prefix: '.',
-    owner: ['5219992042946'],
+    owner: ['5492644156919'],
     version: '1.0.0',
     tipo: 'principal',
     creador: 'ぱ𝒮𝓉𝒶𝓇𝐿𝓎𝓃꒱᮫🌙〪̥〫᪲⸽⁞',
